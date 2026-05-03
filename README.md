@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=BS+Data+Science+%40+FAST+NUCES+Lahore+%F0%9F%87%B5%F0%9F%87%B0;React+Native+%C2%B7+Flutter+%C2%B7+Full+Stack+Web;SQL+%C2%B7+PostgreSQL+%C2%B7+Data+Analysis;create+what+you+wish+existed+%E2%9C%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=BS+Data+Science+%40+FAST+NUCES+Lahore+%F0%9F%87%B5%F0%9F%87%B0;React+Native+%C2%B7+Flutter+%C2%B7+Full+Stack+Web;SQL+%C2%B7+PostgreSQL+%C2%B7+Data+Analysis;Create+what+you+wish+existed+%E2%9C%A6)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,19 +14,7 @@
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════╗
- ║  > whoami                                                ║
- ║                                                          ║
- ║    name       :  Muhammad Farhan Zafar  [ Parzival ]     ║
- ║    age        :  20                                      ║
- ║    location   :  Lahore, PK  🇵🇰                         ║
- ║    university :  FAST NUCES                              ║
- ║    degree     :  BS Data Science  (2023 – 2027)          ║
- ║    focus      :  mobile · web · data · UI/UX systems     ║
- ║    status     :  [ shipping · always ]                   ║
- ╚══════════════════════════════════════════════════════════╝
-```
+<img src="whoami.png" alt="whoami" width="560"/>
 
 </div>
 
@@ -47,8 +35,8 @@
 ### ⚡ FlexPrime
 **Academic Companion for FASTians**
 
-[![Download](https://img.shields.io/badge/Download-v1.7.0-0f172a?style=for-the-badge&logo=android&logoColor=22C55E&labelColor=0f172a)](https://github.com/FarhanZafarr-9/FlexPrime/releases/latest)
-[![Stars](https://img.shields.io/github/stars/FarhanZafarr-9/FlexPrime?style=for-the-badge&labelColor=0f172a&color=0f172a&logoColor=F59E0B)](https://github.com/FarhanZafarr-9/FlexPrime)
+[![Download](https://img.shields.io/badge/Download-v1.7.0-121215?style=for-the-badge&logo=android&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/FlexPrime/releases/latest)
+[![Stars](https://img.shields.io/github/stars/FarhanZafarr-9/FlexPrime?style=for-the-badge&labelColor=09090b&color=121215&logoColor=f0f0f0)](https://github.com/FarhanZafarr-9/FlexPrime)
 
 </div>
 
@@ -71,8 +59,8 @@
 ### 🗒 NotePrime
 **Material You Fork of Note Safe**
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-0f172a?style=for-the-badge&logo=flutter&logoColor=38BDF8&labelColor=0f172a)](https://github.com/FarhanZafarr-9/ntsapp/releases/)
-[![Platform](https://img.shields.io/badge/Android-Supported-0f172a?style=for-the-badge&logo=android&logoColor=22C55E&labelColor=0f172a)](https://github.com/FarhanZafarr-9/ntsapp)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-121215?style=for-the-badge&logo=flutter&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ntsapp/releases/)
+[![Platform](https://img.shields.io/badge/Android-Supported-121215?style=for-the-badge&logo=android&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ntsapp)
 
 </div>
 
@@ -141,13 +129,13 @@
 
 <div align="center">
 
-![Mobile Dev](https://img.shields.io/badge/📱_Mobile_Dev-React_Native_·_Flutter,_shipping_real_apps-0f172a?style=for-the-badge&labelColor=1e293b)
+![Mobile Dev](https://img.shields.io/badge/📱_Mobile_Dev-React_Native_·_Flutter,_shipping_real_apps-121215?style=for-the-badge&labelColor=09090b&color=121215)
 
-![Flutter Redesigns](https://img.shields.io/badge/🎨_Flutter_UI/UX-Material_3_redesigns,_premium_feel-0f172a?style=for-the-badge&labelColor=1e293b)
+![Flutter Redesigns](https://img.shields.io/badge/🎨_Flutter_UI/UX-Material_3_redesigns,_premium_feel-121215?style=for-the-badge&labelColor=09090b&color=121215)
 
-![Full Stack](https://img.shields.io/badge/🌐_Full_Stack_Web-React_·_Node_·_Express_·_SQL-0f172a?style=for-the-badge&labelColor=1e293b)
+![Full Stack](https://img.shields.io/badge/🌐_Full_Stack_Web-React_·_Node_·_Express_·_SQL-121215?style=for-the-badge&labelColor=09090b&color=121215)
 
-![Data Science](https://img.shields.io/badge/📊_Data_Science-analysis,_modelling,_making_sense_of_numbers-0f172a?style=for-the-badge&labelColor=1e293b)
+![Data Science](https://img.shields.io/badge/📊_Data_Science-analysis,_modelling,_making_sense_of_numbers-121215?style=for-the-badge&labelColor=09090b&color=121215)
 
 </div>
 
@@ -161,40 +149,40 @@
 
 **languages**
 
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=60A5FA)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FBBF24)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F59E0B)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3B82F6)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=F97316)
-![C#](https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=A78BFA)
-![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f0f0f0)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f0f0f0)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=09090b)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=f0f0f0)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=f0f0f0)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=f0f0f0)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=f0f0f0)
 
 **mobile**
 
-![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=38BDF8)
-![Expo](https://img.shields.io/badge/Expo-0f172a?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=f0f0f0)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=f0f0f0)
 
 **web & backend**
 
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=22C55E)
-![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=94A3B8)
-![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=F97316)
-![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=3B82F6)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=f0f0f0)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=f0f0f0)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=f0f0f0)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=f0f0f0)
 
 **data & databases**
 
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=database&logoColor=34D399)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![MSSQL](https://img.shields.io/badge/MSSQL-0f172a?style=for-the-badge&logo=microsoftsqlserver&logoColor=F87171)
-![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=34D399)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=f0f0f0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=f0f0f0)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=f0f0f0)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=09090b)
 
 **tools**
 
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F97316)
-![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=A78BFA)
-![WinUI](https://img.shields.io/badge/WinUI-0f172a?style=for-the-badge&logo=windows&logoColor=3B82F6)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=f0f0f0)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=f0f0f0)
+![WinUI](https://img.shields.io/badge/WinUI-0078D4?style=for-the-badge&logo=windows&logoColor=f0f0f0)
 
 </div>
 
@@ -207,10 +195,10 @@
 <div align="center">
 
 <a href="https://github.com/FarhanZafarr-9">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanZafarr-9&show_icons=true&theme=github_dark&hide_border=true&title_color=e2e8f0&text_color=64748b&icon_color=3B82F6&bg_color=0d1117&ring_color=3B82F6&include_all_commits=true&count_private=true&card_width=400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanZafarr-9&show_icons=true&hide_border=true&title_color=f0f0f0&text_color=f0f0f0&icon_color=f0f0f0&bg_color=09090b&ring_color=f0f0f0&include_all_commits=true&count_private=true&card_width=400" height="165"/>
 </a>
 <a href="https://github.com/FarhanZafarr-9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanZafarr-9&layout=compact&theme=github_dark&hide_border=true&title_color=e2e8f0&text_color=64748b&bg_color=0d1117&langs_count=7&card_width=335" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanZafarr-9&layout=compact&hide_border=true&title_color=f0f0f0&text_color=f0f0f0&bg_color=09090b&langs_count=7&card_width=335" height="165"/>
 </a>
 
 </div>
@@ -218,7 +206,7 @@
 <div align="center">
 
 <a href="https://github.com/FarhanZafarr-9">
-  <img src="https://streak-stats.demolab.com?user=FarhanZafarr-9&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=3B82F6&fire=F97316&currStreakLabel=e2e8f0&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=FarhanZafarr-9&theme=dark&hide_border=true&background=09090b&stroke=27272a&ring=f0f0f0&fire=f0f0f0&currStreakLabel=f0f0f0&sideLabels=f0f0f0&dates=71717a&currStreakNum=f0f0f0&sideNums=f0f0f0" width="55%"/>
 </a>
 
 </div>
@@ -229,7 +217,7 @@
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarhanZafarr-9&bg_color=0f172a&color=64748b&line=3B82F6&point=e2e8f0&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/FarhanZafarr-9)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarhanZafarr-9&bg_color=09090b&color=f0f0f0&line=f0f0f0&point=f0f0f0&area=true&area_color=333333&hide_border=true&radius=4)](https://github.com/FarhanZafarr-9)
 
 </div>
 
