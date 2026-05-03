@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0f172a,100:0a0a0f&height=140&section=header&text=Muhammad%20Farhan%20Zafar&fontSize=40&fontColor=e2e8f0&fontAlignY=55&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Full%20Stack%20%C2%B7%20Mobile%20Dev&descSize=13&descAlignY=80&descColor=475569" width="100%"/>
+# Muhammad Farhan Zafar
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=BS+Data+Science+%40+FAST+NUCES+Lahore+%F0%9F%87%B5%F0%9F%87%B0;React+Native+%C2%B7+Flutter+%C2%B7+Full+Stack+Web;SQL+%C2%B7+PostgreSQL+%C2%B7+Data+Analysis;Create+what+you+wish+existed+%E2%9C%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=f0f0f0&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=BS+Data+Science+%40+FAST+NUCES+Lahore+%F0%9F%87%B5%F0%9F%87%B0;React+Native+%C2%B7+Flutter+%C2%B7+Full+Stack+Web;SQL+%C2%B7+PostgreSQL+%C2%B7+Data+Analysis;create+what+you+wish+existed+%E2%9C%A6)](https://git.io/typing-svg)
 
 </div>
 
@@ -233,6 +229,6 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=FarhanZafarr-9&style=flat-square&color=3B82F6&label=profile+views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0f172a,100:0a0a0f&height=80&section=footer" width="100%"/>
+
 
 </div>
