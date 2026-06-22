@@ -82,6 +82,7 @@
 <td width="50%" valign="top">
 
 ### 🏛 Smart University Hub
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/SmartUniversityHub)
 `React` `Node.js` `Express` `MSSQL`
 
 > Full-stack web platform for managing university academics, events, and campus resources. REST backend with a student-first frontend.
@@ -90,6 +91,7 @@
 <td width="50%" valign="top">
 
 ### 🎓 University Flex Portal
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Flex_Portal)
 `Java` `JavaScript` `CSS`
 
 > Web app for university flex management — streamlined UX over the default portal with cleaner data flows and improved accessibility.
@@ -109,11 +111,46 @@
 <td width="50%" valign="top">
 
 ### ⏱ Timers Management App
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Timers)
 `React Native`
 
 > Android app for managing multiple simultaneous timers. Reliable notifications, clean UI, zero bloat.
 
 </td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 NLP Robustness Study
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/LLM-Robustness-Study)
+`Python` `HuggingFace` `Flan-T5` `mT5`
+
+> Systematic evaluation of linguistic robustness in small LLMs across 3,600 paraphrase-output pairs. Tests 4 paraphrase types × 2 models × 3 tasks. Key finding: inconsistency is a model-level property, not input-driven.
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 Student At-Risk Detection
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Student-Risk-Detection)
+`Python` `scikit-learn` `OULAD`
+
+> Unsupervised clustering + anomaly detection (LOF, Isolation Forest, DBSCAN) on 32,593 students to identify withdrawal risk with no labelled training signal. LOF F1: 0.305 — 1 in 3 flagged students genuinely at risk.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁 Feature-Based Object Tracker
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Object-Tracking-Harris-LK)
+`Python` `OpenCV` `NumPy`
+
+> Classical CV pipeline — Harris corners + pyramidal Lucas–Kanade optical flow. User draws a bounding box; tracker propagates it across frames with loss detection and greedy re-detection. No training data required.
+
+</td>
+
 </tr>
 </table>
 
@@ -152,6 +189,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=f0f0f0)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=f0f0f0)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=f0f0f0)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=f0f0f0)
 
 **mobile**
 
@@ -173,6 +211,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=f0f0f0)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=f0f0f0)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=09090b)
+
+**ml & data science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=f0f0f0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=f0f0f0)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=09090b)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=f0f0f0)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=f0f0f0)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=f0f0f0)
 
 **tools**
 
