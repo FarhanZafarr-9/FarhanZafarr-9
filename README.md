@@ -83,6 +83,7 @@
 
 ### 🏛 Smart University Hub
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/SmartUniversityHub)
+
 `React` `Node.js` `Express` `MSSQL`
 
 > Full-stack web platform for managing university academics, events, and campus resources. REST backend with a student-first frontend.
@@ -92,6 +93,7 @@
 
 ### 🎓 University Flex Portal
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Flex_Portal)
+
 `Java` `JavaScript` `CSS`
 
 > Web app for university flex management — streamlined UX over the default portal with cleaner data flows and improved accessibility.
@@ -112,6 +114,7 @@
 
 ### ⏱ Timers Management App
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Timers)
+
 `React Native`
 
 > Android app for managing multiple simultaneous timers. Reliable notifications, clean UI, zero bloat.
@@ -124,6 +127,7 @@
 
 ### 🔬 NLP Robustness Study
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/LLM-Robustness-Study)
+
 `Python` `HuggingFace` `Flan-T5` `mT5`
 
 > Systematic evaluation of linguistic robustness in small LLMs across 3,600 paraphrase-output pairs. Tests 4 paraphrase types × 2 models × 3 tasks. Key finding: inconsistency is a model-level property, not input-driven.
@@ -133,6 +137,7 @@
 
 ### 📉 Student At-Risk Detection
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Student-Risk-Detection)
+
 `Python` `scikit-learn` `OULAD`
 
 > Unsupervised clustering + anomaly detection (LOF, Isolation Forest, DBSCAN) on 32,593 students to identify withdrawal risk with no labelled training signal. LOF F1: 0.305 — 1 in 3 flagged students genuinely at risk.
@@ -145,6 +150,7 @@
 
 ### 👁 Feature-Based Object Tracker
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Object-Tracking-Harris-LK)
+
 `Python` `OpenCV` `NumPy`
 
 > Classical CV pipeline — Harris corners + pyramidal Lucas–Kanade optical flow. User draws a bounding box; tracker propagates it across frames with loss detection and greedy re-detection. No training data required.
