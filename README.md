@@ -156,7 +156,16 @@
 > Classical CV pipeline — Harris corners + pyramidal Lucas–Kanade optical flow. User draws a bounding box; tracker propagates it across frames with loss detection and greedy re-detection. No training data required.
 
 </td>
+<td width="50%" valign="top">
 
+### ⚔ ClashPrime
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ClashPrime)
+
+`React Native` `Expo` `TypeScript`
+
+> Premium monochrome companion app for Clash of Clans — track progress, manage armies and bases, explore building levels, and stay on top of events.
+
+</td>
 </tr>
 </table>
 
