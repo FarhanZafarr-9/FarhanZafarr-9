@@ -20,323 +20,119 @@
 
 ## 🚀 &nbsp;Featured Projects
 
-<br/>
-
 ## 📱 Mobile Apps
 
-<div align="center">
+**⚡ FlexPrime** · *Academic Companion for FASTians*
 
-<table border="0" cellspacing="12" width="100%">
-<tr>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
+[![Download](https://img.shields.io/badge/Download-v1.7.0-121215?style=for-the-badge&logo=android&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/FlexPrime/releases/latest)
+[![Stars](https://img.shields.io/github/stars/FarhanZafarr-9/FlexPrime?style=for-the-badge&labelColor=09090b&color=121215&logoColor=f0f0f0)](https://github.com/FarhanZafarr-9/FlexPrime)
 
-<div align="center">
-
-<h3 style="margin:0 0 2px;">⚡ FlexPrime</h3>
-<sub><i>Academic Companion for FASTians</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/FlexPrime/releases/latest"><img src="https://img.shields.io/badge/Download-v1.7.0-121215?style=for-the-badge&amp;logo=android&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-<a href="https://github.com/FarhanZafarr-9/FlexPrime"><img src="https://img.shields.io/github/stars/FarhanZafarr-9/FlexPrime?style=for-the-badge&amp;labelColor=09090b&amp;color=121215&amp;logoColor=f0f0f0"/></a>
-
-<br/><br/>
-
-<code>React Native</code> &nbsp; <code>Expo</code> &nbsp; <code>Supabase</code>
-
-</div>
-
-<br/>
+`React Native` `Expo` `Supabase`
 
 Solo-built, live on GitHub Releases. Replaces the official FAST-NUCES Flex portal with marks analytics, attendance risk tracking, timetable export, past papers hub, teacher reviews, GPA calculators, and more — built late nights between exams.
 
-<br/><br/>
+📊 live marks diff · 🎯 attendance risk · 📚 materials hub · 🧮 SGPA/CGPA · 🎨 custom UI
 
-<div align="center">
+---
 
-<sub>📊 live marks diff &nbsp;·&nbsp; 🎯 attendance risk &nbsp;·&nbsp; 📚 materials hub &nbsp;·&nbsp; 🧮 SGPA/CGPA &nbsp;·&nbsp; 🎨 custom UI</sub>
+**🗒 NotePrime** · *Material You Fork of Note Safe*
 
-</div>
+[![Release](https://img.shields.io/badge/Release-v1.0.0-121215?style=for-the-badge&logo=flutter&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ntsapp/releases/)
+[![Platform](https://img.shields.io/badge/Android-Supported-121215?style=for-the-badge&logo=android&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ntsapp)
 
-</td>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
-
-<div align="center">
-
-<h3 style="margin:0 0 2px;">🗒 NotePrime</h3>
-<sub><i>Material You Fork of Note Safe</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/ntsapp/releases/"><img src="https://img.shields.io/badge/Release-v1.0.0-121215?style=for-the-badge&amp;logo=flutter&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-<a href="https://github.com/FarhanZafarr-9/ntsapp"><img src="https://img.shields.io/badge/Android-Supported-121215?style=for-the-badge&amp;logo=android&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>Flutter</code> &nbsp; <code>Supabase</code> &nbsp; <code>Libsodium</code>
-
-</div>
-
-<br/>
+`Flutter` `Supabase` `Libsodium`
 
 A ground-up Material 3 redesign of the open-source Note Safe app. End-to-end encrypted, local-first, with a fully overhauled UI — asymmetric chat bubbles, panorama-aware media viewer, per-group privacy shield, biometric grace periods, and Google Fonts integration.
 
-<br/><br/>
+🎨 Material You · 🔒 App-Lock Shield · 👁 privacy shield · 📸 10× pinch zoom · 🔤 Google Fonts
 
-<div align="center">
+---
 
-<sub>🎨 Material You &nbsp;·&nbsp; 🔒 App-Lock Shield &nbsp;·&nbsp; 👁 privacy shield &nbsp;·&nbsp; 📸 10× pinch zoom &nbsp;·&nbsp; 🔤 Google Fonts</sub>
+**⚔ ClashPrime** · *Premium Clash of Clans Companion*
 
-</div>
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ClashPrime)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
-
-<div align="center">
-
-<h3 style="margin:0 0 2px;">⚔ ClashPrime</h3>
-<sub><i>Premium Clash of Clans Companion</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/ClashPrime"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>React Native</code> &nbsp; <code>Expo</code> &nbsp; <code>TypeScript</code>
-
-</div>
-
-<br/>
+`React Native` `Expo` `TypeScript`
 
 Premium monochrome companion app for Clash of Clans — track your progress, manage armies and bases, explore building levels, and stay on top of events.
 
-<br/><br/>
+🏠 dashboard · ⚔️ army · 🏰 80+ buildings · 📅 events · 🗄 base library · 🎖 awards
 
-<div align="center">
+---
 
-<sub>🏠 dashboard &nbsp;·&nbsp; ⚔️ army &nbsp;·&nbsp; 🏰 80+ buildings &nbsp;·&nbsp; 📅 events &nbsp;·&nbsp; 🗄 base library &nbsp;·&nbsp; 🎖 awards</sub>
+**⏱ Timers Management App** · *Android Multi-Timer*
 
-</div>
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Timers)
 
-</td>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
-
-<div align="center">
-
-<h3 style="margin:0 0 2px;">⏱ Timers Management App</h3>
-<sub><i>Android Multi-Timer</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/Timers"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>React Native</code>
-
-</div>
-
-<br/>
+`React Native`
 
 Android app for managing multiple simultaneous timers. Reliable notifications, clean UI, zero bloat.
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 ---
-
-<br/>
 
 ## 🌐 Web & Desktop
 
-<div align="center">
+**🏛 Smart University Hub** · *Full-Stack Web Platform*
 
-<table border="0" cellspacing="12" width="100%">
-<tr>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/SmartUniversityHub)
 
-<div align="center">
-
-<h3 style="margin:0 0 2px;">🏛 Smart University Hub</h3>
-<sub><i>Full-Stack Web Platform</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/SmartUniversityHub"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>React</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>MSSQL</code>
-
-</div>
-
-<br/>
+`React` `Node.js` `Express` `MSSQL`
 
 Full-stack web platform for managing university academics, events, and campus resources. REST backend with a student-first frontend.
 
-</td>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
+---
 
-<div align="center">
+**🎓 University Flex Portal** · *University Flex Management*
 
-<h3 style="margin:0 0 2px;">🎓 University Flex Portal</h3>
-<sub><i>University Flex Management</i></sub>
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Flex_Portal)
 
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/Flex_Portal"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>CSS</code>
-
-</div>
-
-<br/>
+`Java` `JavaScript` `CSS`
 
 Web app for university flex management — streamlined UX over the default portal with cleaner data flows and improved accessibility.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
+---
 
-<div align="center">
+**🖥 Smart University Hub — Desktop** · *Native Windows Companion*
 
-<h3 style="margin:0 0 2px;">🖥 Smart University Hub — Desktop</h3>
-<sub><i>Native Windows Companion</i></sub>
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/SmartUniversityHub)
 
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/SmartUniversityHub"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>C#</code> &nbsp; <code>WinUI</code>
-
-</div>
-
-<br/>
+`C#` `WinUI`
 
 Native Windows companion to the web platform. Offline-capable, faster, and purpose-built for the desktop workflow.
 
-</td>
-<td width="50%" valign="top"></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 ---
-
-<br/>
 
 ## 📊 Data Science & ML
 
-<div align="center">
+**🔬 NLP Robustness Study** · *Linguistic Robustness in Small LLMs*
 
-<table border="0" cellspacing="12" width="100%">
-<tr>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/LLM-Robustness-Study)
 
-<div align="center">
-
-<h3 style="margin:0 0 2px;">🔬 NLP Robustness Study</h3>
-<sub><i>Linguistic Robustness in Small LLMs</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/LLM-Robustness-Study"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>Python</code> &nbsp; <code>HuggingFace</code> &nbsp; <code>Flan-T5</code> &nbsp; <code>mT5</code>
-
-</div>
-
-<br/>
+`Python` `HuggingFace` `Flan-T5` `mT5`
 
 Systematic evaluation of linguistic robustness in small LLMs across 3,600 paraphrase-output pairs. Tests 4 paraphrase types × 2 models × 3 tasks. Key finding: inconsistency is a model-level property, not input-driven.
 
-</td>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
+---
 
-<div align="center">
+**📉 Student At-Risk Detection** · *Unsupervised Withdrawal-Risk Prediction*
 
-<h3 style="margin:0 0 2px;">📉 Student At-Risk Detection</h3>
-<sub><i>Unsupervised Withdrawal-Risk Prediction</i></sub>
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Student-Risk-Detection)
 
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/Student-Risk-Detection"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>Python</code> &nbsp; <code>scikit-learn</code> &nbsp; <code>OULAD</code>
-
-</div>
-
-<br/>
+`Python` `scikit-learn` `OULAD`
 
 Unsupervised clustering + anomaly detection (LOF, Isolation Forest, DBSCAN) on 32,593 students to identify withdrawal risk with no labelled training signal. LOF F1: 0.305 — 1 in 3 flagged students genuinely at risk.
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 ---
-
-<br/>
 
 ## 👁 Computer Vision
 
-<div align="center">
+**👁 Feature-Based Object Tracker** · *Classical CV Pipeline*
 
-<table border="0" cellspacing="12" width="100%">
-<tr>
-<td width="50%" valign="top" style="border:1px solid #1e1e22;border-radius:14px;background:#0d0d0f;padding:20px;">
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Object-Tracking-Harris-LK)
 
-<div align="center">
-
-<h3 style="margin:0 0 2px;">👁 Feature-Based Object Tracker</h3>
-<sub><i>Classical CV Pipeline</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/FarhanZafarr-9/Object-Tracking-Harris-LK"><img src="https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&amp;logo=github&amp;logoColor=f0f0f0&amp;labelColor=09090b"/></a>
-
-<br/><br/>
-
-<code>Python</code> &nbsp; <code>OpenCV</code> &nbsp; <code>NumPy</code>
-
-</div>
-
-<br/>
+`Python` `OpenCV` `NumPy`
 
 Classical CV pipeline — Harris corners + pyramidal Lucas–Kanade optical flow. User draws a bounding box; tracker propagates it across frames with loss detection and greedy re-detection. No training data required.
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ---
 
