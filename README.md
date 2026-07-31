@@ -18,162 +18,149 @@
 
 ---
 
-## 🚀 &nbsp;featured projects
+## 🚀 &nbsp;Featured Projects
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
+## 📱 Mobile Apps
 
-<div align="center">
+<br/>
 
-### ⚡ FlexPrime
-**Academic Companion for FASTians**
+**⚡ FlexPrime** &nbsp;·&nbsp; *Academic Companion for FASTians*
 
 [![Download](https://img.shields.io/badge/Download-v1.7.0-121215?style=for-the-badge&logo=android&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/FlexPrime/releases/latest)
 [![Stars](https://img.shields.io/github/stars/FarhanZafarr-9/FlexPrime?style=for-the-badge&labelColor=09090b&color=121215&logoColor=f0f0f0)](https://github.com/FarhanZafarr-9/FlexPrime)
-
-</div>
 
 `React Native` `Expo` `Supabase`
 
 > Solo-built, live on GitHub Releases. Replaces the official FAST-NUCES Flex portal with marks analytics, attendance risk tracking, timetable export, past papers hub, teacher reviews, GPA calculators, and more — built late nights between exams.
 
-**highlights**
-- 📊 Live marks diff — notified when new marks post
-- 🎯 Attendance risk + bunk/needed calculators
-- 📚 Materials hub — past papers, notes, outlines
-- 🧮 SGPA/CGPA approximation the portal won't give you
-- 🎨 Custom accent colors, font scaling, concise UI mode
+📊 live marks diff &nbsp;·&nbsp; 🎯 attendance risk &nbsp;·&nbsp; 📚 materials hub &nbsp;·&nbsp; 🧮 SGPA/CGPA &nbsp;·&nbsp; 🎨 custom UI
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<div align="center">
-
-### 🗒 NotePrime
-**Material You Fork of Note Safe**
+**🗒 NotePrime** &nbsp;·&nbsp; *Material You Fork of Note Safe*
 
 [![Release](https://img.shields.io/badge/Release-v1.0.0-121215?style=for-the-badge&logo=flutter&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ntsapp/releases/)
 [![Platform](https://img.shields.io/badge/Android-Supported-121215?style=for-the-badge&logo=android&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ntsapp)
-
-</div>
 
 `Flutter` `Supabase` `Libsodium`
 
 > A ground-up Material 3 redesign of the open-source Note Safe app. End-to-end encrypted, local-first, with a fully overhauled UI — asymmetric chat bubbles, panorama-aware media viewer, per-group privacy shield, biometric grace periods, and Google Fonts integration.
 
-**highlights**
-- 🎨 Full Material You dynamic color engine
-- 🔒 App-Lock Shield + screenshot blocking
-- 👁 Per-group blur privacy shield
-- 📸 Edge-to-edge media with 10× pinch zoom
-- 🔤 Custom typography via Google Fonts
-
-</td>
-</tr>
-</table>
+🎨 Material You &nbsp;·&nbsp; 🔒 App-Lock Shield &nbsp;·&nbsp; 👁 privacy shield &nbsp;·&nbsp; 📸 10× pinch zoom &nbsp;·&nbsp; 🔤 Google Fonts
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
+**⚔ ClashPrime** &nbsp;·&nbsp; *Premium Clash of Clans Companion*
 
-### 🏛 Smart University Hub
-[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/SmartUniversityHub)
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ClashPrime)
 
-`React` `Node.js` `Express` `MSSQL`
+`React Native` `Expo` `TypeScript`
 
-> Full-stack web platform for managing university academics, events, and campus resources. REST backend with a student-first frontend.
+> Premium monochrome companion app for Clash of Clans — track your progress, manage armies and bases, explore building levels, and stay on top of events.
 
-</td>
-<td width="50%" valign="top">
+🏠 dashboard &nbsp;·&nbsp; ⚔️ army &nbsp;·&nbsp; 🏰 80+ buildings &nbsp;·&nbsp; 📅 events &nbsp;·&nbsp; 🗄 base library &nbsp;·&nbsp; 🎖 awards
 
-### 🎓 University Flex Portal
-[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Flex_Portal)
+<br/>
 
-`Java` `JavaScript` `CSS`
+**⏱ Timers Management App** &nbsp;·&nbsp; *Android Multi-Timer*
 
-> Web app for university flex management — streamlined UX over the default portal with cleaner data flows and improved accessibility.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🖥 Smart University Hub — Desktop
-`C#` `WinUI`
-
-> Native Windows companion to the web platform. Offline-capable, faster, and purpose-built for the desktop workflow.
-
-</td>
-<td width="50%" valign="top">
-
-### ⏱ Timers Management App
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Timers)
 
 `React Native`
 
 > Android app for managing multiple simultaneous timers. Reliable notifications, clean UI, zero bloat.
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🔬 NLP Robustness Study
+<br/>
+
+## 🌐 Web & Desktop
+
+<br/>
+
+**🏛 Smart University Hub** &nbsp;·&nbsp; *Full-Stack Web Platform*
+
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/SmartUniversityHub)
+
+`React` `Node.js` `Express` `MSSQL`
+
+> Full-stack web platform for managing university academics, events, and campus resources. REST backend with a student-first frontend.
+
+<br/>
+
+**🎓 University Flex Portal** &nbsp;·&nbsp; *University Flex Management*
+
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Flex_Portal)
+
+`Java` `JavaScript` `CSS`
+
+> Web app for university flex management — streamlined UX over the default portal with cleaner data flows and improved accessibility.
+
+<br/>
+
+**🖥 Smart University Hub — Desktop** &nbsp;·&nbsp; *Native Windows Companion*
+
+[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/SmartUniversityHub)
+
+`C#` `WinUI`
+
+> Native Windows companion to the web platform. Offline-capable, faster, and purpose-built for the desktop workflow.
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 Data Science & ML
+
+<br/>
+
+**🔬 NLP Robustness Study** &nbsp;·&nbsp; *Linguistic Robustness in Small LLMs*
+
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/LLM-Robustness-Study)
 
 `Python` `HuggingFace` `Flan-T5` `mT5`
 
 > Systematic evaluation of linguistic robustness in small LLMs across 3,600 paraphrase-output pairs. Tests 4 paraphrase types × 2 models × 3 tasks. Key finding: inconsistency is a model-level property, not input-driven.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 📉 Student At-Risk Detection
+**📉 Student At-Risk Detection** &nbsp;·&nbsp; *Unsupervised Withdrawal-Risk Prediction*
+
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Student-Risk-Detection)
 
 `Python` `scikit-learn` `OULAD`
 
 > Unsupervised clustering + anomaly detection (LOF, Isolation Forest, DBSCAN) on 32,593 students to identify withdrawal risk with no labelled training signal. LOF F1: 0.305 — 1 in 3 flagged students genuinely at risk.
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
+---
 
-### 👁 Feature-Based Object Tracker
+<br/>
+
+## 👁 Computer Vision
+
+<br/>
+
+**👁 Feature-Based Object Tracker** &nbsp;·&nbsp; *Classical CV Pipeline*
+
 [![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/Object-Tracking-Harris-LK)
 
 `Python` `OpenCV` `NumPy`
 
 > Classical CV pipeline — Harris corners + pyramidal Lucas–Kanade optical flow. User draws a bounding box; tracker propagates it across frames with loss detection and greedy re-detection. No training data required.
 
-</td>
-<td width="50%" valign="top">
-
-### ⚔ ClashPrime
-[![Repo](https://img.shields.io/badge/Repo-View-121215?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=09090b)](https://github.com/FarhanZafarr-9/ClashPrime)
-
-`React Native` `Expo` `TypeScript`
-
-> Premium monochrome companion app for Clash of Clans — track progress, manage armies and bases, explore building levels, and stay on top of events.
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ---
 
-## 🎨 &nbsp;what i do
+## 🎨 &nbsp;What I Do
 
 <div align="center">
 
@@ -191,72 +178,72 @@
 
 ---
 
-## ⚙️ &nbsp;tech stack
+## ⚙️ &nbsp;Tech Stack
 
-<div align="center">
+<table border="0" width="100%">
+<tr>
+<td width="15%" valign="top"><b>Languages</b></td>
+<td valign="top">
 
-**languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f0f0f0) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f0f0f0) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=09090b) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=f0f0f0) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=f0f0f0) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=f0f0f0) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=f0f0f0) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=f0f0f0)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f0f0f0)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f0f0f0)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=09090b)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=f0f0f0)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=f0f0f0)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=f0f0f0)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=f0f0f0)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=f0f0f0)
+</td>
+</tr>
+<tr>
+<td width="15%" valign="top"><b>Mobile</b></td>
+<td valign="top">
 
-**mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=f0f0f0) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=f0f0f0)
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=f0f0f0)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=f0f0f0)
+</td>
+</tr>
+<tr>
+<td width="15%" valign="top"><b>Web & Backend</b></td>
+<td valign="top">
 
-**web & backend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=f0f0f0) ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=f0f0f0) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=f0f0f0) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=f0f0f0)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=f0f0f0)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=f0f0f0)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=f0f0f0)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=f0f0f0)
+</td>
+</tr>
+<tr>
+<td width="15%" valign="top"><b>Data & Databases</b></td>
+<td valign="top">
 
-**data & databases**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=f0f0f0) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=f0f0f0) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=f0f0f0) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=09090b)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=f0f0f0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=f0f0f0)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=f0f0f0)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=09090b)
+</td>
+</tr>
+<tr>
+<td width="15%" valign="top"><b>ML & Data Science</b></td>
+<td valign="top">
 
-**ml & data science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=f0f0f0) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=f0f0f0) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=09090b) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=f0f0f0) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=f0f0f0) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=f0f0f0)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=f0f0f0)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=f0f0f0)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=09090b)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=f0f0f0)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=f0f0f0)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=f0f0f0)
+</td>
+</tr>
+<tr>
+<td width="15%" valign="top"><b>Tools</b></td>
+<td valign="top">
 
-**tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=f0f0f0) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=f0f0f0) ![WinUI](https://img.shields.io/badge/WinUI-0078D4?style=for-the-badge&logo=windows&logoColor=f0f0f0)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=f0f0f0)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=f0f0f0)
-![WinUI](https://img.shields.io/badge/WinUI-0078D4?style=for-the-badge&logo=windows&logoColor=f0f0f0)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-## 📊 &nbsp;github stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/FarhanZafarr-9">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanZafarr-9&show_icons=true&hide_border=true&title_color=f0f0f0&text_color=f0f0f0&icon_color=f0f0f0&bg_color=09090b&ring_color=f0f0f0&include_all_commits=true&count_private=true&card_width=400" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=FarhanZafarr-9&show_icons=true&hide_border=true&border_radius=12&title_color=f0f0f0&text_color=f0f0f0&icon_color=f0f0f0&bg_color=09090b&ring_color=f0f0f0&include_all_commits=true&count_private=true&card_width=400" height="165"/>
 </a>
 <a href="https://github.com/FarhanZafarr-9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanZafarr-9&layout=compact&hide_border=true&title_color=f0f0f0&text_color=f0f0f0&bg_color=09090b&langs_count=7&card_width=335" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FarhanZafarr-9&layout=compact&hide_border=true&border_radius=12&title_color=f0f0f0&text_color=f0f0f0&bg_color=09090b&langs_count=7&card_width=335" height="165"/>
 </a>
 
 </div>
@@ -271,11 +258,11 @@
 
 <br/>
 
-## 📡 &nbsp;activity
+## 📡 &nbsp;Activity
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarhanZafarr-9&bg_color=09090b&color=f0f0f0&line=f0f0f0&point=f0f0f0&area=true&area_color=333333&hide_border=true&radius=4)](https://github.com/FarhanZafarr-9)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarhanZafarr-9&bg_color=09090b&color=f0f0f0&line=f0f0f0&point=f0f0f0&area=true&area_color=333333&hide_border=true&radius=12)](https://github.com/FarhanZafarr-9)
 
 </div>
 
@@ -289,7 +276,7 @@
 
 <br/><br/>
 
-![visitors](https://komarev.com/ghpvc/?username=FarhanZafarr-9&style=flat-square&color=3B82F6&label=profile+views)
+![visitors](https://komarev.com/ghpvc/?username=FarhanZafarr-9&style=for-the-badge&color=121215&label=profile+views)
 
 
 
