@@ -1,5 +1,6 @@
 import json
 import os
+from datetime import date
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
@@ -7,7 +8,15 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parent.parent
 
 with open(Path(__file__).resolve().parent / "whoami.json", encoding="utf-8") as f:
-    data = list(json.load(f).items())
+    raw = json.load(f)
+
+birthdate = raw.pop("birthdate", None)
+if birthdate:
+    b = date.fromisoformat(birthdate)
+    today = date.today()
+    raw["age"] = str(today.year - b.year - ((today.month, today.day) < (b.month, b.day)))
+
+data = list(raw.items())
 
 SCALE     = 3
 FS        = 13 * SCALE

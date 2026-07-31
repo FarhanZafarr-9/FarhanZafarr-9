@@ -5,6 +5,8 @@ on:
     paths:
       - 'scripts/whoami.py'
       - 'scripts/whoami.json'
+  schedule:
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 permissions:
